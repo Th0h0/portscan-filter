@@ -1,4 +1,3 @@
-import nmap
 import regex
 import argparse
 
